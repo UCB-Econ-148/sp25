@@ -1,23 +1,14 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+January 21
+: **Lecture 1**{: .label .label-lecture } [Slides]()
+    : [Syllabus](https://www.econ148.org/sp24/syllabus/)
+: **Lab 0**{: .label .label-lab } [Prerequisites](){:target="_blank"} (optional; no due date)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+January 23
+: **Lecture 2**{: .label .label-lecture }[Slides](), [Lecture Notebook]()
 
-Oct 1
-: **Lab**{: .label .label-purple } [Lab 1: Control and Functions]({% link _labs/lab01.md %})
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red } [HW 1: Recursion]({% link _hw/hw01.md %})
+: **Lab 1**{: .label .label-lab }[Pandas]() (due date TBD)

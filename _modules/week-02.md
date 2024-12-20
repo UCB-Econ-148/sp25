@@ -1,23 +1,16 @@
 ---
-title: Basic Data Structures
+title: Week 2
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+January 28
+: **Lecture 3**{: .label .label-lecture }[Slides](), [Lecture Notebook]()
+: **Discussion 1**{: .label .label-disc } [Slides](){:target="_blank"}
+: **Lab 2**{: .label .label-lab }[Data Cleaning and APIs]() (due date TBD)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
 
-Oct 8
-: **Project**{: .label .label-green } [Project 1: Ants vs. Some Bees]({% link _projects/proj01.md %})
+January 30
+: **Lecture 4**{: .label .label-lecture }[Slides](), [Lecture Notebook](), [WRDS Notebook]()
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+
+
