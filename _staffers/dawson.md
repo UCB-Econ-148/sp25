@@ -1,6 +1,6 @@
 ---
 name: Dawson Verley
-role: TA
+role: Staff
 email: verley@berkeley.edu
 photo: DawsonV.jpeg
 access_email: true
