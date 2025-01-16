@@ -5,51 +5,26 @@ description: A listing of all the course staff members.
 nav_order: 4
 ---
 
-# Staff
+# Staff 🧑‍🏫
 
-## Instructors
+<!-- See [this post](https://edstem.org/us/courses/34369/discussion/) on Ed for the most up-to-date office hours schedule and Zoom links. -->
+
+## Instructor
+
+Email the instructor with any questions about the class.
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
+<div class="role">
+  {% for staffer in instructors %}
+  {{ staffer }}
+  {% endfor %}
+</div>
 
-{% assign head_teaching_assistants = site.staffers | where: 'role', 'Head Teaching Assistant' %}
-{% assign num_head_teaching_assistants = head_teaching_assistants | size %}
-{% if num_head_teaching_assistants != 0 %}
-## Head Teaching Assistants
+## Staff
 
-{% for staffer in head_teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
-
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
-
-{% for staffer in teaching_assistants %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
-
-{% assign tutors = site.staffers | where: 'role', 'Tutor' %}
-{% assign num_tutors = tutors | size %}
-{% if num_tutors != 0 %}
-## Tutors
-
-{% for staffer in tutors %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
-
-{% assign academic_interns = site.staffers | where: 'role', 'Academic Intern' %}
-{% assign num_academic_interns = academic_interns | size %}
-{% if num_academic_interns != 0 %}
-## Academic Interns
-
-{% for staffer in academic_interns %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
+{% assign staff = site.staffers | where: 'role', 'Staff' %}
+<div class="role">
+  {% for staffer in staff %}
+  {{ staffer }}
+  {% endfor %}
+</div>
