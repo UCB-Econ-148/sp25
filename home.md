@@ -12,11 +12,11 @@ UC Berkeley, Spring 2025
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
 [PollEV](https://pollev.com/ericvandusen){: .btn .btn-purple }
-[Ed](https://edstem.org/){:target="_blank" .btn .btn-ed .mr-1 }
-[Gradescope](https://www.gradescope.com/){:target="_blank" .btn .btn-gradescope .mr-1 }
-[Lecture Recordings](https://kaltura.berkeley.edu/){:target="_blank" .btn .btn-recordings .mr-1} 
-[Extenuating Circumstances](TODO){:target="_blank" .btn .btn-blue .mr-1 }
-[Anonymous Feedback](TODO){:target="_blank" .btn .btn-feedback .mr-1 } 
+[Ed](https://edstem.org/us/courses/73804){:target="_blank" .btn .btn-ed .mr-1 }
+[Gradescope](https://www.gradescope.com/courses/955865/){:target="_blank" .btn .btn-gradescope .mr-1 }
+[Lecture Recordings](https://kaltura.berkeley.edu/channel/Econ148%2B-%2BSp25/367836372){:target="_blank" .btn .btn-recordings .mr-1} 
+[Extenuating Circumstances](https://docs.google.com/forms/d/e/1FAIpQLSe8Dnrl97NEaaAcG828ZJyyX64jnE-0RYRGPHIoX3PrvCGwkQ/viewform?usp=dialog){:target="_blank" .btn .btn-blue .mr-1 }
+[Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSe8Dnrl97NEaaAcG828ZJyyX64jnE-0RYRGPHIoX3PrvCGwkQ/viewform?usp=dialog){:target="_blank" .btn .btn-feedback .mr-1 } 
 
 {: .mb-2 }
 **Instructor:** 
