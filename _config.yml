@@ -168,6 +168,13 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 
+# External navigation links
+nav_external_links:
+  - title: Textbook
+    url: https://www.econ148.org/textbook/
+    hide_icon: true
+
+
 ## Footer Content.
 # You should probably not change these, but may add to footer_content if necessary.
 # Replace `true` with any additional HTML that you would like to add.
