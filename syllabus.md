@@ -79,7 +79,7 @@ During each lecture, there will be a point (or more) at which we stop and ask yo
 
 ### Discussion Section
 
-There is one discussion section a week that is held by Peter and Rohan, our UGSIs. Discussion attendance and activity is a part of your participation grade, and **the midterm will be heavily based on the section material**. Sections are 1 hour long, starting Berkeley-time. The first 15 minutes will be a recap of last week's material, resulting in a summary slide well worth reviewing ahead of your midterm and projects. The remaining time will be spent on the lab of the week, a Jupyter Notebook exercise you're expected to finish on your own time. The hope is that by participating in the discussion section, you will be able to get a good start on the labs and projects. 
+There is one discussion section a week that is held by our TAs. Discussion attendance and activity is a part of your participation grade, and **the midterm will be heavily based on the section material**. Sections are 1 hour long, starting Berkeley-time. The first 15 minutes will be a recap of last week's material, resulting in a summary slide well worth reviewing ahead of your midterm and projects. The remaining time will be spent on the lab of the week, a Jupyter Notebook exercise you're expected to finish on your own time. The hope is that by participating in the discussion section, you will be able to get a good start on the labs and projects. 
 
 Expectations towards the students:  
 - Participation in class activity. This is incredibly important; the entire class will benefit from a highly collaborative environment while learning data science.
@@ -124,7 +124,7 @@ We will be using several websites this semester. Here's what they're all used fo
 - [Course Website](http://www.econ148.org): where all content will be posted.
 - [Textbook](http://www.econ148.org/textbook): textbook that accompanies the course.
 - [Ed](https://edstem.org/): discussion forum where all announcements will be sent, and where all student-staff and student-student communication will occur. 
-- [DataHub](http://data100.datahub.berkeley.edu): where all assignments will be hosted. (You will not usually have to navigate here manually; assignment links on the course homepage bring you to the right place automatically.) 
+- [DataHub](datahub.berkeley.edu): where all assignments will be hosted. (You will not usually have to navigate here manually; assignment links on the course homepage bring you to the right place automatically.) 
 - [Gradescope](https://www.gradescope.com/): where all labs and projects are submitted and all grades live. (Not bCourses! 🙅)
 - [Poll Everywhere](https://pollev.com/ericvandusen) : this is where we will do class checks and attendance checks! 
 
@@ -150,7 +150,7 @@ Attendance will be taken for all lectures and discussions, and Ed activity will 
 
 #### Surveys
 
-Since this is a new-ish (2nd offering) class, we're very interested in receiving your feedback as to how it's going and how we can improve. 
+Since this is a new-ish (3rd offering) class, we're very interested in receiving your feedback as to how it's going and how we can improve. 
 
 As such, we will have feedback survey for you to fill out at the end of very lab. These are a part of your lab grade, and you get a score for completing them (although they're completely anonymous). There is also a general feedback form where you can share your feedback anonymously at any point throughout the semester.
 
@@ -168,11 +168,11 @@ There will be 3 projects in total. Projects 1 and 2 have a weight of 10% each, w
 
 ### Late Policy and Extensions
 
-Assignments are due to Gradescope at 11:59PM on the day that they are due. We will have a small grace period of 3 minutes (until 12:02 am) to account for any technical difficulties. It is your responsibility to be proactive about your submissions; staff are not expected to be active on midnight to help you with submission issues.
+Assignments are due to Gradescope at 11:59PM on the day that they are due. We will have a small grace period of 5 minutes (until 12:05 am) to account for any technical difficulties. It is your responsibility to be proactive about your submissions; staff are not expected to be active on midnight to help you with submission issues.
 
 Students are allowed to submit labs and projects late for a 50% penalty within 48 hours after they are due, after which they will receive no credit. We will factor in late submissions when we're calculating grades at the end of the semester.
 
-**Extensions:** We know this is a stressful time, and we don't want to penalize you because of circumstances that are out of your control. To request an extension, please submit [this google form](TODO_ERIC) as soon as possible (definitely before the deadline). As long as your request is within reason, there's a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to fill out the google form, but no explanation will be required.
+**Extensions:** We know this is a stressful time, and we don't want to penalize you because of circumstances that are out of your control. To request an extension, please submit [this google form](https://docs.google.com/forms/d/e/1FAIpQLSe8Dnrl97NEaaAcG828ZJyyX64jnE-0RYRGPHIoX3PrvCGwkQ/viewform?usp=dialog) as soon as possible (definitely before the deadline). As long as your request is within reason, there's a good chance of it being granted. Students with DSP accommodations that allow for late assignment submissions will still need to fill out the google form, but no explanation will be required.
 
 <br>
 
