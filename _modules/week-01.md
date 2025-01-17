@@ -11,12 +11,16 @@ January 21
 
 January 23
 : **Lecture 2**{: .label .label-lecture }  Overview of Technology 
-[Slides](){:target="_blank"}()
+[//]: # [Slides](){:target="_blank"} 
 
-: **Lab 1**{: .label .label-lab }[Pandas](){:target="_blank"}  (1/31)
+: **Lab 1**{: .label .label-lab } Pandas   (due 1/31)
+
+
+
 
 [//]: # [Slides](){:target="_blank"} 
 
 [//]: # [Lecture Notebook](){:target="_blank"} 
 
-[//]: # [SLR Notebook]() &#8226; [MLR Notebook]()
+[//]: # [Lab](){:target="_blank"} 
+
