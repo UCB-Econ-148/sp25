@@ -1,5 +1,5 @@
 ---
-title: Week 12
+title: Week 12 - Machine Learning
 ---
 
 April 8

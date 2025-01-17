@@ -1,5 +1,5 @@
 ---
-title: Week 3
+title: Week 3 - FRED API - Pandas
 ---
 
 February 4

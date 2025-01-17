@@ -1,5 +1,5 @@
 ---
-title: Week 5
+title: Week 5 - SQL
 ---
 
 February 18

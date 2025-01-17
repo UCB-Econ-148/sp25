@@ -1,5 +1,5 @@
 ---
-title: Week 7
+title: Week 7 - Visualization and Mapping 
 ---
 
 March 4
