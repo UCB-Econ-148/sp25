@@ -4,8 +4,8 @@ title: Week 1
 
 January 21
 : **Lecture 1**{: .label .label-lecture } [Introduction and Course Overview  - Slides](https://docs.google.com/presentation/d/1-ErICjQ3SuKzsphvRwfLIqBEqWhANndqMH8yU1r-1gc/edit?usp=sharing){:target="_blank"} 
-
 : [Syllabus](https://www.econ148.org/sp24/syllabus/)
+
 : **Lab 0**{: .label .label-lab } [Prerequisites](){:target="_blank"} (optional; no due date)
 
 
