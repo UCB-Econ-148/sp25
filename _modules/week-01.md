@@ -10,9 +10,9 @@ January 21
 
 January 23
 : **Lecture 2**{: .label .label-lecture }  Overview of Technology 
-[Slides]()
+[Slides]{:target="_blank"}()
 
-: **Lab 1**{: .label .label-lab }[Pandas]() (1/31)
+: **Lab 1**{: .label .label-lab }[Pandas](){:target="_blank"}  (1/31)
 
 [//]: # [Slides](){:target="_blank"} 
 
