@@ -3,10 +3,10 @@ title: Week 4
 ---
 
 February 11
-: **Lecture 7**{: .label .label-lecture }[Slides](){:target="_blank"}
-: **Discussion 3**{: .label .label-disc } [Slides](){:target="_blank"}
+: **Lecture 7**{: .label .label-lecture }
+: **Discussion 3**{: .label .label-disc } 
 
 
 February 13
-: **Lecture 8**{: .label .label-lecture }[Slides](){:target="_blank"},[Lecture NB]()
-: **Lab 4**{: .label .label-lab }[SQL]() (due date TBD)
+: **Lecture 8**{: .label .label-lecture }
+: **Lab 4**{: .label .label-lab } SQL (due date TBD)
