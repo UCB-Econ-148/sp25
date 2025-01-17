@@ -11,8 +11,6 @@ January 21
 
 January 23
 : **Lecture 2**{: .label .label-lecture }  Overview of Technology 
-
-
 : **Lab 1**{: .label .label-lab } Pandas   (due 1/31)
 
 
