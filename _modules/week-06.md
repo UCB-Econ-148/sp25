@@ -17,4 +17,4 @@ February 27
 
 [//]: # [Lecture Notebook](){:target="_blank"} 
 
-[//]: # [Lab 5](){:target="_blank"} 
+[//]: # [Lab 6](){:target="_blank"} 

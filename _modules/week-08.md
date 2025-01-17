@@ -10,7 +10,7 @@ March 11
 
 March 13
 : **Lecture 16**{: .label .label-lecture } 
-: **Lab 8**{: .label .label-lab } Survival Analysis (due date TBD)
+: **Lab 8**{: .label .label-lab } Survival Analysis (due date 4/4)
 
 [//]: # [Slides](){:target="_blank"} 
 

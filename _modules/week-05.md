@@ -10,7 +10,7 @@ February 18
 
 February 20
 : **Lecture 10**{: .label .label-lecture }
-: **Lab 5**{: .label .label-lab }Visualization I (due date TBD)
+: **Lab 5**{: .label .label-lab }Visualization I (due date 2/28)
 
 [//]: # [Slides](){:target="_blank"} 
 

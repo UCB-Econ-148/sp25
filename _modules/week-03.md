@@ -11,9 +11,8 @@ February 4
 February 6
 : **Lecture 6**{: .label .label-lecture }
 
-: **Lab 3**{: .label .label-lab }[Wrangling Survey Data]() (due date TBD)
-
-: **Project 1**{: .label .label-hw }[Regional GDP]() (due date TBD)
+: **Lab 3**{: .label .label-lab }[Wrangling Survey Data]() (due date 2/14)
+: **Project 1**{: .label .label-hw }[Regional GDP]() (due date 2/28)
 
 
 [//]: # [Lab 2](){:target="_blank"} 

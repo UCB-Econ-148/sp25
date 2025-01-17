@@ -9,4 +9,4 @@ February 11
 
 February 13
 : **Lecture 8**{: .label .label-lecture }
-: **Lab 4**{: .label .label-lab } SQL (due date TBD)
+: **Lab 4**{: .label .label-lab } SQL (due date 2/21)

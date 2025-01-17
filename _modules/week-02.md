@@ -1,5 +1,5 @@
 ---
-title: Week 2
+title: Week 2 - Pandas and API
 ---
 
 January 28
@@ -10,7 +10,7 @@ January 28
 January 30
 : **Lecture 4**{: .label .label-lecture }
 
-: **Lab 2**{: .label .label-lab }Data Cleaning and APIs (due date TBD)
+: **Lab 2**{: .label .label-lab }Data Cleaning and APIs (due date 2/7)
 
 
 [//]: # [Slides](){:target="_blank"} 
