@@ -13,7 +13,9 @@ January 21
 
 
 January 23
-: **Lecture 2**{: .label .label-lecture }  Overview of Technology 
+: **Lecture 2**{: .label .label-lecture }  [Overview of Technology](https://docs.google.com/presentation/d/1hiwFt1kDmXA5S4-k3Epl_ATcwZfOMREKTKXS0cmtbFU/edit?usp=sharing) 
+: [Lecture NB - Vibecession](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec1.2%2Fvibecession-Jan25.ipynb){:target="_blank"} 
+
 : **Lab 1**{: .label .label-lab } Pandas   (due 1/31)
 
 
