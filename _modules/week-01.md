@@ -17,7 +17,7 @@ January 23
 : [Lecture NB - Vibecession](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec1.2%2Fvibecession-Jan25.ipynb){:target="_blank"} 
 
 
-: **Lab 1**{: .label .label-lab } [Pandas](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flab%2Flab01%2Flab01.ipynb){:target="_blank"} (due 1/31)
+: **Lab 1**{: .label .label-dark-green} [Pandas](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flab%2Flab01%2Flab01.ipynb){:target="_blank"} (due 1/31)
 
 
 
