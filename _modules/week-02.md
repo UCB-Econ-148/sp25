@@ -3,8 +3,8 @@ title: Week 2 - Pandas and API
 ---
 
 January 28
-: **Lecture 3**{: .label .label-lecture }
-: **Discussion 1**{: .label .label-disc } 
+: **Lecture 3**{: .label .label-lecture } 
+: **Discussion 1**{: .label .label-disc } [Pandas](https://docs.google.com/presentation/d/1CqbCfVFxNdw7KzIUz7p0IqqjTnMsiBVwm0K-dK5V69A/edit?usp=sharing){:target="_blank"} 
 
 
 January 30
