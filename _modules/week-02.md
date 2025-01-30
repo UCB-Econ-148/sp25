@@ -9,7 +9,12 @@ January 28
 
 
 January 30
-: **Lecture 4**{: .label .label-lecture }
+: **Lecture 4**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/1t6DlA82wNilxicKTeSDA26v9uzSFsAgQ3f-N64SN2pg/edit?usp=sharing){:target="_blank"} 
+: [Lecture Notebook](){:target="_blank"} 
+: [Jim Church Slides](https://docs.google.com/presentation/d/1oHP2sLDP1g52ZhET5fuPoEv62HbwJZKrAAaS31lplFE/edit?usp=sharing){:target="_blank"} 
+: [WRDS Notebook](){:target="_blank"} 
+
+
 
 : **Lab 2**{: .label .label-lab }Data Cleaning and APIs (due date 2/7)
 
