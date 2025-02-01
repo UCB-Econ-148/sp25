@@ -6,8 +6,6 @@ on:
   - pull_request
   - push
   - workflow_dispatch
-  - deployment
-  - release
 
 jobs:
   build:
