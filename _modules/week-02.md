@@ -16,7 +16,7 @@ January 30
 
 
 
-: **Lab 2**{: .label .label-lab }Data Cleaning and APIs (due date 2/7)
+: **Lab 2**{: .label .label-lab } [Data Cleaning and APIs](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flab%2Flab02%2Flab02.ipynb){:target="_blank"}(due date 2/7)
 
 
 [//]: # [Slides](){:target="_blank"} 
