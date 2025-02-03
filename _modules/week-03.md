@@ -5,7 +5,7 @@ title: Week 3 - FRED API - Pandas
 February 4
 : **Lecture 5**{: .label .label-lecture }
 
-: **Discussion 2**{: .label .label-disc } 
+: **Discussion 2**{: .label .label-disc }  [Data Cleaning](https://docs.google.com/presentation/d/10INe-mi3qqw2lR6VSMybf4ULrvJ9ZXgzjIaXfRD9Hfo/edit?usp=sharing){{:target="_blank"} }
 
 
 February 6
