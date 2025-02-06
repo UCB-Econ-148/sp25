@@ -12,7 +12,11 @@ February 4
 
 
 February 6
-: **Lecture 6**{: .label .label-lecture }
+: **Lecture 6**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/19zaI-jxog_hABP5iTj17cQXOQmiUa800ENmyLEmGgd0/edit?usp=sharing)
+: [Lecture FRED Intro](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec3.2%2Flec3.2-Fred.ipynb){:target="_blank"} 
+: [Lecture Predictions Merge](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec3.2%2FInflationExpectations_Merge.ipynb){:target="_blank"} 
+: [Lecture 3d Phillips](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec3.2%2FPhillips3D.ipynb){:target="_blank"} 
+: 
 
 : **Lab 3**{: .label .label-lab }[Wrangling Survey Data]() (due date 2/14)
 : **Project 1**{: .label .label-hw }[Regional GDP]() (due date 2/28)
