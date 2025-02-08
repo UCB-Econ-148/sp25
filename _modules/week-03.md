@@ -19,7 +19,7 @@ February 6
 : 
 
 : **Lab 3**{: .label .label-lab } [Wrangling Survey Data](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flab%2Flab03%2Flab03.ipynb){:target="_blank"} (due date 2/14)
-: **Project 1**{: .label .label-hw }[Regional GDP]() (due date 2/28)
+: **Project 1**{: .label .label-hw } [Regional GDP](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Fproj%2Fproj01%2Fproj01.ipynb){:target="_blank"} (due date 2/28)
 
 
 [//]: # [Lab 2](){:target="_blank"} 
