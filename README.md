@@ -1,9 +1,8 @@
-# Berkeley Class Site
+# Econ 148 Sp 25 Website 
 
 [![Pages Deployment](https://github.com/UCB-Econ-148/sp25/actions/workflows/jekyll.yml/badge.svg)](https://github.com/UCB-Econ-148/sp25/actions/workflows/jekyll.yml) •
 [![a11y specs](https://github.com/UCB-Econ-148/sp25/actions/workflows/rspec.yml/badge.svg)](https://github.com/UCB-Econ-148/sp25/actions/workflows/rspec.yml)
 
-A template for UC Berkeley class websites (with a focus on EECS/CS/DS courses).
 
 ## Installation
 
