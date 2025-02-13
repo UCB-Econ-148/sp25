@@ -1,5 +1,5 @@
 ---
-title: Week 7 - Visualization and Mapping 
+title: Week 7 - SQL
 ---
 
 March 4

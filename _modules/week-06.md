@@ -1,5 +1,5 @@
 ---
-title: Week 6 - Visualization 
+title: Week 6 - Visualization and Mapping
 ---
 
 February 25
@@ -10,7 +10,7 @@ February 25
 
 February 27
 : **Lecture 12**{: .label .label-lecture }
-: **Lab 6**{: .label .label-lab }Geospatial Visualizations (due date TBD)
+: **Lab 6**{: .label .label-lab }SQL (due date TBD)
 : **Project 2**{: .label .label-hw } Mariel Boatlift (due date TBD)
 
 [//]: # [Slides](){:target="_blank"} 
