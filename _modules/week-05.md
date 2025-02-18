@@ -5,7 +5,7 @@ title: Week 5 - Visualization
 February 18
 : **Lecture 9**{: .label .label-lecture }
 
-: **Discussion 4**{: .label .label-disc } 
+: **Discussion 4**{: .label .label-disc } [Slides](https://docs.google.com/presentation/d/1ILZdtjmH39okDMLvnKZqug7ALIA2LvIR7NCAXNGXuOA/edit?usp=sharing)
 
 
 February 20
