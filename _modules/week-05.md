@@ -3,7 +3,11 @@ title: Week 5 - Visualization
 ---
 
 February 18
-: **Lecture 9**{: .label .label-lecture }
+: **Lecture 9**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/1QwI4f2J9vMTlZmRTorhk_Om1Nv3kupXTNK-nUySpIS8/edit?usp=sharing)
+: [Lecture Viz ](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec5.1%2FViz-1.ipynb){:target="_blank"} 
+: [Big Mac](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec5.1%2FBig_Mac.ipynb){:target="_blank"} 
+: [Avocado](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec5.1%2FAvocados_Log.ipynb){:target="_blank"} 
+: [Finance](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec5.1%2FFinanceDemo.ipynb){:target="_blank"} 
 
 : **Discussion 4**{: .label .label-disc } [Slides](https://docs.google.com/presentation/d/1ILZdtjmH39okDMLvnKZqug7ALIA2LvIR7NCAXNGXuOA/edit?usp=sharing)
 
