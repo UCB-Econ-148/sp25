@@ -19,7 +19,7 @@ February 20
 : [All Counties ](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec5.2%2Fall_counties.ipynb){:target="_blank"} 
 :
 
-: **Lab 5**{: .label .label-lab }Visualization II (due date 2/28)
+: **Lab 5**{: .label .label-lab }[Visualization II](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flab%2Flab05%2Flab05.ipynb){:target="_blank"} (due date 2/28)
 
 [//]: # [Slides](){:target="_blank"} 
 
