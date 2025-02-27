@@ -10,7 +10,8 @@ February 25
 
 
 February 27
-: **Lecture 12**{: .label .label-lecture }
+: **Lecture 12**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/16aA-TJvgrQJw7RhRXT7RTJkI7rPlulcOzaTr7iyhmLc/edit?usp=sharing){:target="_blank"} 
+
 : **Lab 6**{: .label .label-lab }SQL (due date TBD)
 : **Project 2**{: .label .label-hw } Mariel Boatlift (due date TBD)
 
