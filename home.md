@@ -3,8 +3,8 @@ layout: page
 title: Welcome!
 nav_exclude: true
 permalink: /
-currWeekNumber: 1
-currWeekMoniker: introduction-and-pandas
+currWeekNumber: 6
+currWeekMoniker: visualization-and-mapping
 ---
 
 # Data Science for Economists
