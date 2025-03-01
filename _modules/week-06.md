@@ -12,7 +12,7 @@ February 25
 February 27
 : **Lecture 12**{: .label .label-lecture }[Slides](https://docs.google.com/presentation/d/16aA-TJvgrQJw7RhRXT7RTJkI7rPlulcOzaTr7iyhmLc/edit?usp=sharing){:target="_blank"} 
 
-: **Lab 6**{: .label .label-lab }SQL (due date TBD)
+: **Lab 6**{: .label .label-lab } [SQL](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flab%2Flab06%2Flab06.ipynb)(due 3/7){:target="_blank"}
 : **Project 2**{: .label .label-hw } Mariel Boatlift (due date TBD)
 
 [//]: # [Slides](){:target="_blank"} 
