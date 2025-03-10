@@ -5,7 +5,7 @@ title: Week 8 - Econometrics
 March 11
 : **Lecture 15**{: .label .label-lecture } 
 
-: **Discussion 7**{: .label .label-disc } 
+: **Discussion 7**{: .label .label-disc } [Slides](https://docs.google.com/presentation/d/1WMdVGC28vbPaECTzU2TDqsfru3XOxbhw5kuYsVMxPmk/edit?usp=sharing){:target="_blank"} 
 
 
 March 13
