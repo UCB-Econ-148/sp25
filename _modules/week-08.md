@@ -17,7 +17,7 @@ March 13
 :  [UC Investment Academy](https://merage.uci.edu/ciwm-events/uc-investment-academy.html#:~:text=The%20UC%20Investments%20Academy%20offers,multi%2Dbillion%2Ddollar%20portfolio.)
 
 
-: **Lab 8**{: .label .label-lab } Survival Analysis (due date 4/4)
+: **Lab 8**{: .label .label-lab } [Survival Analysis](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flab%2Flab08%2Flab08.ipynb){:target="_blank"} (due date 4/4)
 
 [//]: # [Slides](){:target="_blank"} 
 
