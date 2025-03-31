@@ -4,7 +4,7 @@ title: Week 11 - Time Series
 
 April 1
 : **Lecture 18**{: .label .label-lecture }
-
+: **Discussion 9**{: .label .label-disc } [Slides](https://docs.google.com/presentation/d/1I5ha0soPCmqqpLwnDYwyu7gcTzQzmEUUR9ADtmcbGQQ/edit?usp=sharing){:target="_blank"} 
 
 April 3
 : **Lecture 19**{: .label .label-lecture }
