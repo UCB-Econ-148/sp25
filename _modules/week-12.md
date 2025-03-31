@@ -5,7 +5,7 @@ title: Week 12 - Machine Learning
 April 8
 : **Lecture 20**{: .label .label-lecture }
 
-: **Discussion 9**{: .label .label-disc } 
+: **Discussion 10**{: .label .label-disc } 
 
 April 10
 : **Lecture 21**{: .label .label-lecture }
