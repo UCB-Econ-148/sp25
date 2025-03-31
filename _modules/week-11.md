@@ -4,7 +4,7 @@ title: Week 11 - Time Series
 
 April 1
 : **Lecture 18**{: .label .label-lecture } [Slides](https://docs.google.com/presentation/d/1qIUJnVhlfBN66NkSLbXxPtZsMZNRmEDXKGQ5ajRXikY/edit?usp=sharing){:target="_blank"}
-:[Time_Series_Concepts](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec10.1%2FLec10-1.ipynb){:target="_blank"} 
+: [Time_Series_Concepts](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec10.1%2FLec10-1.ipynb){:target="_blank"} 
 : **Discussion 9**{: .label .label-disc } [Slides](https://docs.google.com/presentation/d/1I5ha0soPCmqqpLwnDYwyu7gcTzQzmEUUR9ADtmcbGQQ/edit?usp=sharing){:target="_blank"} 
 
 April 3
