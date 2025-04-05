@@ -10,7 +10,6 @@ April 8
 April 10
 : **Lecture 21**{: .label .label-lecture }
 
-: **Lab 10**{: .label .label-lab } (due 4/18)
 
 [//]: # [Slides](){:target="_blank"} 
 
