@@ -19,7 +19,7 @@ April 3
 
 
 : **Lab 9**{: .label .label-lab }[Time_Series](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flab%2Flab09%2Flab09.ipynb){:target="_blank"} (due date 4/11)
-: **Project 3**{: .label .label-hw } Reproduction (due date 4/18 & 5/2)
+: **Project 3**{: .label .label-hw }[Reproduction](https://edstem.org/us/courses/73804/discussion/6484407){:target="_blank"} (due date 4/18 & 5/2)
 
 [//]: # [Slides](){:target="_blank"} 
 
