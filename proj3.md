@@ -151,7 +151,7 @@ One person from your group must fill out this [google form](https://forms.gle/H5
 - Please do not reach out to Professor Ted Miguel or any of his co-authors with questions about the reproduction. Direct all questions to course staff: Peter, Rohan, or Professor Van Dusen.
 - During the time of the project, all discussion sections will be turned into optional OH for your group to ask any clarifiying questions. We strongly encourage you (and your group) to attend these!
 - Course staff may share, with the consent of the group, the best reproductions with the authors of the paper.
-- A lot of the code for the original papers is written in Stata (using `.do`/`.dta` files). Rohan will hold a lecture on translating Stata to Python using a Python package he built ([`Stata2Python`](https://www.econ148.org/textbook/content/01-python_v_stata/syntax.html#stata2python){:target="_blank"}). You may also find Google and ChatGPT helpful for this, but please ensure your code is free of errors and you understand what's going on. Do not simply just copy-and-paste!
+- A lot of the code for the original papers is written in Stata (using `.do`/`.dta` files). Rohan will hold a lecture on translating Stata to Python using a Python package he built ([Stata2Python](https://www.econ148.org/textbook/content/01-python_v_stata/syntax.html#stata2python){:target="_blank"}). You may also find Google and ChatGPT helpful for this, but please ensure your code is free of errors and you understand what's going on. Do not simply just copy-and-paste!
 
 <!-- 
 ### Sources
