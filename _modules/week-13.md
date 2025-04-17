@@ -10,5 +10,8 @@ April 15
 
 
 April 17
-: **Lecture 23**{: .label .label-lecture } 
+: **Lecture 23**{: .label .label-lecture } [Slides](https://docs.google.com/presentation/d/1wP28tJYY5KTLm8d6_E6k-qDY6f0MwHq8R_aYz6hkzNU/edit?usp=sharing){:target="_blank"}
+: [FairML](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCB-Econ-148%2Fecon148-sp25&branch=main&urlpath=lab%2Ftree%2Fecon148-sp25%2Flec%2Flec13.2%2FFairML-Folktables.ipynb){:target="_blank"} 
+
+
 
