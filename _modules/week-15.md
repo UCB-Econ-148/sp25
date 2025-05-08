@@ -12,6 +12,7 @@ April 29
 May 1
 : **Lecture 27**{: .label .label-lecture }  Last Day of Class 
 : [Slides](https://docs.google.com/presentation/d/1lypz-rs_JdsBy-Vrcic3tk7pkTWC5hgcSAfLXISjGRI/edit?usp=sharing){:target="_blank"}
+: ## Thanks for a Great semester ##
 
 [//]: # [Slides](){:target="_blank"} 
 
